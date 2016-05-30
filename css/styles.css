@@ -35,3 +35,7 @@ div.sidebar {
 .middle {
   float: right;
 }
+
+table.center {
+  text-align: center;
+}
