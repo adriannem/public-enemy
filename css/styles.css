@@ -16,7 +16,7 @@ p {
 img {
   padding: 15px;
 }
-div.sidebar {
+aside.sidebar {
   float: right;
   background-color: red;
   color: black;
